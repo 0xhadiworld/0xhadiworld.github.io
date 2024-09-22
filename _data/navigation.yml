@@ -1,0 +1,8 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "درباره من"
+    url: /about-me/
+  - title: "آرشیو نوشته‌ها"
+    url: /archive/
