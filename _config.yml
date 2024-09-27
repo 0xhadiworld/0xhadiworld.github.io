@@ -20,8 +20,9 @@ rtl                      : true
 title                    : "از هیچ تا دنیا"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "test"
-description              : "سلام من هادیم و خوش اومدید"
+name                     : "از هیچ تا دنیا"
+description              : "سلام به وبلاگ من **خوش اومدید**. من اینجا در مورد موضوعات مختلف و چیزهایی که مطالعه می‌کنم و به نظرم **جالب به‌‌نظر می‌رسه** می‌نویسم. اگر خواستید با من بیشتر آشنا بشید می‌تونید صفحه [**درباره من**](https://0xhadiworld.github.io/about-me) رو بخونید.
+"
 url                      : "https://0xhadiworld.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -280,7 +281,7 @@ whitelist:
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /archive/
 # tag_archive:
 #   type: liquid
 #   path: /tags/
