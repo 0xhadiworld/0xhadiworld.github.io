@@ -1,5 +1,5 @@
 ---
-title: "شخصیت فردی: بنیان‌گذار روابط انسانی موثر"
+title: "کارتیمی: چرا باید بیشتر با هم کار کنیم"
 header:
   image: /assets/images/importance-of-teamwork-in-success.jpg
   og_image: /assets/images/importance-of-teamwork-in-success.jpg
